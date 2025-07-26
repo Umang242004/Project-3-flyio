@@ -1,4 +1,4 @@
-app = "ig-uploader-yourname"
+app = "Project3"
 
 [env]
   PORT = "8080"
